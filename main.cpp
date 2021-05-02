@@ -7,6 +7,8 @@
 
 using namespace std;
 
+//file names should be saved as "streamername.csv"
+
 int compare_2_streamers(string streamer1, string streamer2)
 {
 
