@@ -1,0 +1,783 @@
+Insert list of steamers (enter "???" after last):
+alicopter
+anniebot
+bwipolol
+caps
+dekar173
+hylissanglol
+ipav999
+jankos
+kaypea
+lol_selfmade
+m1kyx
+nisqyy
+pekinwoof
+rekkles
+sanchovies
+solorenektononly
+tarzaned
+tobiasfate
+upsetger
+wunderlol
+???
+Number of followers for alicopter.csv : 104106
+Number of followers for anniebot.csv : 480528
+Number of shared followers = 25948
+
+Number of followers for alicopter.csv : 104106
+Number of followers for bwipolol.csv : 164904
+Number of shared followers = 16954
+
+Number of followers for alicopter.csv : 104106
+Number of followers for caps.csv : 602293
+Number of shared followers = 35659
+
+Number of followers for alicopter.csv : 104106
+Number of followers for dekar173.csv : 161694
+Number of shared followers = 16161
+
+Number of followers for alicopter.csv : 104106
+Number of followers for hylissanglol.csv : 49296
+Number of shared followers = 6099
+
+Number of followers for alicopter.csv : 104106
+Number of followers for ipav999.csv : 190079
+Number of shared followers = 17386
+
+Number of followers for alicopter.csv : 104106
+Number of followers for jankos.csv : 936022
+Number of shared followers = 43587
+
+Number of followers for alicopter.csv : 104106
+Number of followers for kaypea.csv : 778813
+Number of shared followers = 12838
+
+Number of followers for alicopter.csv : 104106
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 17930
+
+Number of followers for alicopter.csv : 104106
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 14184
+
+Number of followers for alicopter.csv : 104106
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 10651
+
+Number of followers for alicopter.csv : 104106
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 7617
+
+Number of followers for alicopter.csv : 104106
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 38096
+
+Number of followers for alicopter.csv : 104106
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 38040
+
+Number of followers for alicopter.csv : 104106
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 28155
+
+Number of followers for alicopter.csv : 104106
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 47180
+
+Number of followers for alicopter.csv : 104106
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 39336
+
+Number of followers for alicopter.csv : 104106
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 9084
+
+Number of followers for alicopter.csv : 104106
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 5439
+
+Number of followers for anniebot.csv : 480528
+Number of followers for bwipolol.csv : 164904
+Number of shared followers = 18790
+
+Number of followers for anniebot.csv : 480528
+Number of followers for caps.csv : 602293
+Number of shared followers = 58188
+
+Number of followers for anniebot.csv : 480528
+Number of followers for dekar173.csv : 161694
+Number of shared followers = 36544
+
+Number of followers for anniebot.csv : 480528
+Number of followers for hylissanglol.csv : 49296
+Number of shared followers = 6134
+
+Number of followers for anniebot.csv : 480528
+Number of followers for ipav999.csv : 190079
+Number of shared followers = 39578
+
+Number of followers for anniebot.csv : 480528
+Number of followers for jankos.csv : 936022
+Number of shared followers = 69675
+
+Number of followers for anniebot.csv : 480528
+Number of followers for kaypea.csv : 778813
+Number of shared followers = 80785
+
+Number of followers for anniebot.csv : 480528
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 19008
+
+Number of followers for anniebot.csv : 480528
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 15581
+
+Number of followers for anniebot.csv : 480528
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 15481
+
+Number of followers for anniebot.csv : 480528
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 9558
+
+Number of followers for anniebot.csv : 480528
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 100229
+
+Number of followers for anniebot.csv : 480528
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 38479
+
+Number of followers for anniebot.csv : 480528
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 65167
+
+Number of followers for anniebot.csv : 480528
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 76513
+
+Number of followers for anniebot.csv : 480528
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 151065
+
+Number of followers for anniebot.csv : 480528
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 10993
+
+Number of followers for anniebot.csv : 480528
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 6445
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for caps.csv : 602293
+Number of shared followers = 94949
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for dekar173.csv : 161694
+Number of shared followers = 10982
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for hylissanglol.csv : 49296
+Number of shared followers = 28929
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for ipav999.csv : 190079
+Number of shared followers = 11868
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for jankos.csv : 936022
+Number of shared followers = 103410
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for kaypea.csv : 778813
+Number of shared followers = 13624
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 65950
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 45565
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 34836
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 6802
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 108134
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 37827
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 20629
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 39353
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 33662
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 37402
+
+Number of followers for bwipolol.csv : 164904
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 27609
+
+Number of followers for caps.csv : 602293
+Number of followers for dekar173.csv : 161694
+Number of shared followers = 26724
+
+Number of followers for caps.csv : 602293
+Number of followers for hylissanglol.csv : 49296
+Number of shared followers = 33242
+
+Number of followers for caps.csv : 602293
+Number of followers for ipav999.csv : 190079
+Number of shared followers = 33791
+
+Number of followers for caps.csv : 602293
+Number of followers for jankos.csv : 936022
+Number of shared followers = 329043
+
+Number of followers for caps.csv : 602293
+Number of followers for kaypea.csv : 778813
+Number of shared followers = 48731
+
+Number of followers for caps.csv : 602293
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 105812
+
+Number of followers for caps.csv : 602293
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 107916
+
+Number of followers for caps.csv : 602293
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 67810
+
+Number of followers for caps.csv : 602293
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 14318
+
+Number of followers for caps.csv : 602293
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 305319
+
+Number of followers for caps.csv : 602293
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 78206
+
+Number of followers for caps.csv : 602293
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 54903
+
+Number of followers for caps.csv : 602293
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 109682
+
+Number of followers for caps.csv : 602293
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 95470
+
+Number of followers for caps.csv : 602293
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 59521
+
+Number of followers for caps.csv : 602293
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 59071
+
+Number of followers for dekar173.csv : 161694
+Number of followers for hylissanglol.csv : 49296
+Number of shared followers = 2702
+
+Number of followers for dekar173.csv : 161694
+Number of followers for ipav999.csv : 190079
+Number of shared followers = 22310
+
+Number of followers for dekar173.csv : 161694
+Number of followers for jankos.csv : 936022
+Number of shared followers = 32214
+
+Number of followers for dekar173.csv : 161694
+Number of followers for kaypea.csv : 778813
+Number of shared followers = 19746
+
+Number of followers for dekar173.csv : 161694
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 11927
+
+Number of followers for dekar173.csv : 161694
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 6557
+
+Number of followers for dekar173.csv : 161694
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 7585
+
+Number of followers for dekar173.csv : 161694
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 4764
+
+Number of followers for dekar173.csv : 161694
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 33973
+
+Number of followers for dekar173.csv : 161694
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 25181
+
+Number of followers for dekar173.csv : 161694
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 34169
+
+Number of followers for dekar173.csv : 161694
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 50243
+
+Number of followers for dekar173.csv : 161694
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 60300
+
+Number of followers for dekar173.csv : 161694
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 5872
+
+Number of followers for dekar173.csv : 161694
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 3178
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for ipav999.csv : 190079
+Number of shared followers = 3298
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for jankos.csv : 936022
+Number of shared followers = 32108
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for kaypea.csv : 778813
+Number of shared followers = 5801
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 27273
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 22070
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 16060
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 1380
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 40253
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 8842
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 5932
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 10583
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 9472
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 19397
+
+Number of followers for hylissanglol.csv : 49296
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 10589
+
+Number of followers for ipav999.csv : 190079
+Number of followers for jankos.csv : 936022
+Number of shared followers = 40482
+
+Number of followers for ipav999.csv : 190079
+Number of followers for kaypea.csv : 778813
+Number of shared followers = 17496
+
+Number of followers for ipav999.csv : 190079
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 12578
+
+Number of followers for ipav999.csv : 190079
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 8412
+
+Number of followers for ipav999.csv : 190079
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 8909
+
+Number of followers for ipav999.csv : 190079
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 6151
+
+Number of followers for ipav999.csv : 190079
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 35269
+
+Number of followers for ipav999.csv : 190079
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 25816
+
+Number of followers for ipav999.csv : 190079
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 37159
+
+Number of followers for ipav999.csv : 190079
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 39732
+
+Number of followers for ipav999.csv : 190079
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 55066
+
+Number of followers for ipav999.csv : 190079
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 5933
+
+Number of followers for ipav999.csv : 190079
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 3798
+
+Number of followers for jankos.csv : 936022
+Number of followers for kaypea.csv : 778813
+Number of shared followers = 60349
+
+Number of followers for jankos.csv : 936022
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 127919
+
+Number of followers for jankos.csv : 936022
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 117162
+
+Number of followers for jankos.csv : 936022
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 63596
+
+Number of followers for jankos.csv : 936022
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 16597
+
+Number of followers for jankos.csv : 936022
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 341464
+
+Number of followers for jankos.csv : 936022
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 97557
+
+Number of followers for jankos.csv : 936022
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 66364
+
+Number of followers for jankos.csv : 936022
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 134170
+
+Number of followers for jankos.csv : 936022
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 122015
+
+Number of followers for jankos.csv : 936022
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 60459
+
+Number of followers for jankos.csv : 936022
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 62707
+
+Number of followers for kaypea.csv : 778813
+Number of followers for lol_selfmade.csv : 171896
+Number of shared followers = 14397
+
+Number of followers for kaypea.csv : 778813
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 12039
+
+Number of followers for kaypea.csv : 778813
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 13900
+
+Number of followers for kaypea.csv : 778813
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 5315
+
+Number of followers for kaypea.csv : 778813
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 113857
+
+Number of followers for kaypea.csv : 778813
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 22445
+
+Number of followers for kaypea.csv : 778813
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 41260
+
+Number of followers for kaypea.csv : 778813
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 37702
+
+Number of followers for kaypea.csv : 778813
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 80840
+
+Number of followers for kaypea.csv : 778813
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 8235
+
+Number of followers for kaypea.csv : 778813
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 5128
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for m1kyx.csv : 143902
+Number of shared followers = 50566
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 40663
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 6218
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 117792
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 40279
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 18654
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 50741
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 34667
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 46544
+
+Number of followers for lol_selfmade.csv : 171896
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 28586
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for nisqyy.csv : 132973
+Number of shared followers = 26975
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 4042
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 107031
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 25002
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 12777
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 28948
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 24949
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 32130
+
+Number of followers for m1kyx.csv : 143902
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 44405
+
+Number of followers for nisqyy.csv : 132973
+Number of followers for pekinwoof.csv : 61017
+Number of shared followers = 4335
+
+Number of followers for nisqyy.csv : 132973
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 68235
+
+Number of followers for nisqyy.csv : 132973
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 21594
+
+Number of followers for nisqyy.csv : 132973
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 11695
+
+Number of followers for nisqyy.csv : 132973
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 27915
+
+Number of followers for nisqyy.csv : 132973
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 22118
+
+Number of followers for nisqyy.csv : 132973
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 30650
+
+Number of followers for nisqyy.csv : 132973
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 14473
+
+Number of followers for pekinwoof.csv : 61017
+Number of followers for rekkles.csv : 931312
+Number of shared followers = 13211
+
+Number of followers for pekinwoof.csv : 61017
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 14162
+
+Number of followers for pekinwoof.csv : 61017
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 10027
+
+Number of followers for pekinwoof.csv : 61017
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 14665
+
+Number of followers for pekinwoof.csv : 61017
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 10744
+
+Number of followers for pekinwoof.csv : 61017
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 2949
+
+Number of followers for pekinwoof.csv : 61017
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 2046
+
+Number of followers for rekkles.csv : 931312
+Number of followers for sanchovies.csv : 262074
+Number of shared followers = 75430
+
+Number of followers for rekkles.csv : 931312
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 62371
+
+Number of followers for rekkles.csv : 931312
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 112814
+
+Number of followers for rekkles.csv : 931312
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 131650
+
+Number of followers for rekkles.csv : 931312
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 68588
+
+Number of followers for rekkles.csv : 931312
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 54681
+
+Number of followers for sanchovies.csv : 262074
+Number of followers for solorenektononly.csv : 407925
+Number of shared followers = 45987
+
+Number of followers for sanchovies.csv : 262074
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 90285
+
+Number of followers for sanchovies.csv : 262074
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 78371
+
+Number of followers for sanchovies.csv : 262074
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 18644
+
+Number of followers for sanchovies.csv : 262074
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 13153
+
+Number of followers for solorenektononly.csv : 407925
+Number of followers for tarzaned.csv : 438199
+Number of shared followers = 75781
+
+Number of followers for solorenektononly.csv : 407925
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 103559
+
+Number of followers for solorenektononly.csv : 407925
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 8604
+
+Number of followers for solorenektononly.csv : 407925
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 6204
+
+Number of followers for tarzaned.csv : 438199
+Number of followers for tobiasfate.csv : 749480
+Number of shared followers = 128494
+
+Number of followers for tarzaned.csv : 438199
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 24219
+
+Number of followers for tarzaned.csv : 438199
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 13122
+
+Number of followers for tobiasfate.csv : 749480
+Number of followers for upsetger.csv : 91065
+Number of shared followers = 17934
+
+Number of followers for tobiasfate.csv : 749480
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 12024
+
+Number of followers for upsetger.csv : 91065
+Number of followers for wunderlol.csv : 71788
+Number of shared followers = 17839
+
+Process finished
